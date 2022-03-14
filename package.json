@@ -1,0 +1,15 @@
+{
+  "name": "@tokuda109/github-playground-packages",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tokuda109/github-playground-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tokuda109/github-playground-packages/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/tokuda109"
+  }
+}
